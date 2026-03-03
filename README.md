@@ -1,7 +1,7 @@
 <p align="center">
 <img width="1360" height="700" alt="image" src="https://github.com/user-attachments/assets/0ccfa4b5-c11f-483c-b323-2d52e75e34fb" />
   
-<img src="screenshots/ad-top.png" width="80%" alt="Active Directory Lab Screenshot"/>
+
 </p>
 
 # Preparing Active Directory Infrastructure in Azure
