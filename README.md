@@ -92,8 +92,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 - Restart the client VM to apply changes  
 
 <p align="center">
-⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
-`screenshots/ad-client-dns.png`
+<img width="878" height="490" alt="Screenshot 2026-03-03 163950" src="https://github.com/user-attachments/assets/7aa0471e-6ad5-4d69-9f73-0138ede96ae9" />
+
 </p>
 
 ---
