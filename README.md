@@ -104,8 +104,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 - Run `ipconfig /all` on the client to confirm DNS is pointing to DC1  
 
 <p align="center">
-⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
-`screenshots/ad-verification.png`
+<img width="1034" height="646" alt="Screenshot 2026-03-03 164114" src="https://github.com/user-attachments/assets/72ecb8fa-a773-4ab1-8592-1d95c53876b3" />
+
 </p>
 
 ---
