@@ -80,8 +80,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 - Disable Windows Firewall on DC1 (lab/testing purposes)  
 
 <p align="center">
-⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
-`screenshots/ad-dc-network.png`
+<img width="1028" height="578" alt="Screenshot 2026-03-03 163630" src="https://github.com/user-attachments/assets/1edf2caf-7797-4a96-abe7-ebc88176d3ff" />
+
 </p>
 
 ---
