@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/0k8LZfZ.png" alt="Active Directory Logo"/>
+  <img src="<img width="1360" height="700" alt="image" src="https://github.com/user-attachments/assets/d36bbdb2-c4e2-40f5-9631-b9f82b78de17" />
+o"/>
 </p>
 
 # Preparing Active Directory Infrastructure in Azure
