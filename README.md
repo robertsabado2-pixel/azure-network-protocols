@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="<img width="1360" height="700" alt="image" src="https://github.com/user-attachments/assets/d36bbdb2-c4e2-40f5-9631-b9f82b78de17" />
-o"/>
+<img width="1360" height="700" alt="image" src="https://github.com/user-attachments/assets/0ccfa4b5-c11f-483c-b323-2d52e75e34fb" />
+  
+<img src="screenshots/ad-top.png" width="80%" alt="Active Directory Lab Screenshot"/>
 </p>
 
 # Preparing Active Directory Infrastructure in Azure
@@ -12,12 +13,12 @@ The lab includes creating resource groups, virtual networks, domain controller a
 
 ## 🖥️ Environment & Technologies Used
 
-- Microsoft Azure (Cloud Infrastructure)
-- Windows Server 2022 (Domain Controller)
-- Windows 10 Pro (Client VM)
-- Active Directory Domain Services
-- DNS Configuration
-- Resource Groups and Virtual Networks in Azure
+- Microsoft Azure (Cloud Infrastructure)  
+- Windows Server 2022 (Domain Controller)  
+- Windows 10 Pro (Client VM)  
+- Active Directory Domain Services  
+- DNS Configuration  
+- Resource Groups and Virtual Networks in Azure  
 
 ---
 
@@ -26,7 +27,7 @@ The lab includes creating resource groups, virtual networks, domain controller a
 In this lab, I:
 
 - Created a Resource Group and Virtual Network in Azure  
-- Deployed two VMs:
+- Deployed two VMs:  
   - **DC-1** (Domain Controller, Windows Server 2022)  
   - **Client-1** (Client Machine, Windows 10 Pro)  
 - Configured static private IP for the Domain Controller  
@@ -75,8 +76,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 
 ### Step 3: Configure Networking
 
-- Set **DC1’s private IP** to static (ensures DNS reliability).  
-- Disable Windows Firewall on DC1 (lab/testing purposes).  
+- Set **DC1’s private IP** to static (ensures DNS reliability)  
+- Disable Windows Firewall on DC1 (lab/testing purposes)  
 
 <p align="center">
 ⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
@@ -87,8 +88,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 
 ### Step 4: Configure DNS on Client VM
 
-- On Client-1, set the **DNS server** to DC1’s private IP (not Azure’s default DNS).  
-- Restart the client VM to apply changes.
+- On Client-1, set the **DNS server** to DC1’s private IP (not Azure’s default DNS)  
+- Restart the client VM to apply changes  
 
 <p align="center">
 ⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
@@ -99,8 +100,8 @@ Both VMs are in the same Resource Group and Virtual Network.
 
 ### Step 5: Verify Connectivity
 
-- Log into Client-1 and ping DC1’s private IP.  
-- Run `ipconfig /all` on the client to confirm DNS is pointing to DC1.  
+- Log into Client-1 and ping DC1’s private IP  
+- Run `ipconfig /all` on the client to confirm DNS is pointing to DC1  
 
 <p align="center">
 ⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
@@ -111,10 +112,10 @@ Both VMs are in the same Resource Group and Virtual Network.
 
 ## ✅ Key Points Learned
 
-- The Domain Controller acts as both AD and DNS server.  
-- Correct DNS configuration on the client is critical for domain joining.  
-- Static IP for the DC ensures clients retain connectivity even after restarts.  
-- Disabling the Windows Firewall on DC is for ease of testing in a lab environment.  
+- The Domain Controller acts as both AD and DNS server  
+- Correct DNS configuration on the client is critical for domain joining  
+- Static IP for the DC ensures clients retain connectivity even after restarts  
+- Disabling Windows Firewall on DC is for ease of testing in a lab environment  
 
 ---
 
@@ -125,4 +126,4 @@ Both VMs are in the same Resource Group and Virtual Network.
 - Windows Server 2022 Domain Controller setup  
 - DNS configuration for AD environment  
 - Client machine network setup for domain joining  
-- Verification of network and DNS connectivity# azure-network-protocols
+- Verification of network and DNS connectivity
