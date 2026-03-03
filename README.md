@@ -68,8 +68,8 @@ This setup prepares the lab environment for domain joining and further Active Di
 Both VMs are in the same Resource Group and Virtual Network.
 
 <p align="center">
-⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
-`screenshots/ad-vms.png`
+<img width="1759" height="1019" alt="Screenshot 2026-03-03 163444" src="https://github.com/user-attachments/assets/8f34b181-287c-47f1-afba-56c6d4d36349" />
+
 </p>
 
 ---
