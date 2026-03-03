@@ -47,8 +47,8 @@ This setup prepares the lab environment for domain joining and further Active Di
 - Create a **Virtual Network** named e.g., `active-directory-vnet` and attach it to your Resource Group.
 
 <p align="center">
-⬇️⬇️⬇️ REPLACE THIS WITH YOUR SCREENSHOT ⬇️⬇️⬇️  
-`screenshots/ad-resourcegroup-vnet.png`
+<img width="673" height="574" alt="Screenshot 2026-03-03 163002" src="https://github.com/user-attachments/assets/914881f5-12c2-44fd-bf85-93158d343d5d" />
+
 </p>
 
 ---
